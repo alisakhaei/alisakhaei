@@ -1,12 +1,12 @@
 # Hi, I'm Ali Sakhaei 👋
 
-Mechanical Engineering student interested in mechanical design, machine elements, and engineering analysis.
+Mechanical Engineering student interested in robotics, engineering design, and practical engineering projects.
 
 ## About Me
 
-* Working on academic projects involving gearbox and mechanical component design
+* Exploring robotics through mechanical design, simulation, electronics, and programming
+* Completed academic projects in gearbox and mechanical component design
 * Experienced as a Teaching Assistant, grading assignments and answering course-related questions
-* Interested in documenting and sharing engineering projects
 * English and German at B2 level
 
 ## Connect
