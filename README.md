@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Ali Sakhaei 👋
 
-<!--
-**alisakhaei/alisakhaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechanical Engineering student interested in mechanical design, machine elements, and engineering analysis.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Working on academic projects involving gearbox and mechanical component design
+* Experienced as a Teaching Assistant, grading assignments and answering course-related questions
+* Interested in documenting and sharing engineering projects
+* English and German at B2 level
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/a-sakhaei)
