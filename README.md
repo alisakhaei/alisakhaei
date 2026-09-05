@@ -17,6 +17,9 @@ Modeling and simulation of a separately excited DC motor, including open-loop an
 
 [View project repository](https://github.com/alisakhaei/dc-motor-speed-control)
 
+- [Gearbox Design](https://github.com/alisakhaei/gearbox-design)  
+  Mechanical design and analysis of a two-stage gearbox, including gears, shafts, bearings, housing, and a complete SolidWorks assembly.
+
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/a-sakhaei)
