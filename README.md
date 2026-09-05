@@ -1,13 +1,34 @@
-# Hi, I'm Ali Sakhaei 👋
+# Hi, I'm Ali Sakhaei
 
-Mechanical Engineering student interested in robotics, engineering design, and practical engineering projects.
+Mechanical Engineering student interested in robotics, engineering design, control, and simulation.
 
 ## About Me
 
-* Exploring robotics through mechanical design, simulation, electronics, and programming
-* Completed academic projects in gearbox and mechanical component design
+* Interested in designing and building robotic systems
+* Experienced with control modeling and dynamic simulation
+* Familiar with electronics and embedded systems through coursework and practical work
+* Worked on academic projects involving mechanical design, CFD, and physics-informed neural networks
 * Experienced as a Teaching Assistant, grading assignments and answering course-related questions
 * English and German at B2 level
+
+## Areas of Interest
+
+* Robotics and mechanism design
+* Control and dynamic simulation
+* Embedded systems and electronics
+* Mechanical design and CAD
+
+## Tools
+
+* MATLAB and Simulink
+* Python and PyTorch
+* SolidWorks
+* ANSYS Fluent
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/a-sakhaei)
+
 
 ## Projects
 
