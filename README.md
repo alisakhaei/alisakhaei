@@ -29,6 +29,13 @@ Dynamic simulation of a reciprocating pump mechanism, including multibody modeli
 
 [View project repository](https://github.com/alisakhaei/reciprocating-pump-dynamics)
 
+### Airfoil Flow with Physics-Informed Neural Networks
+
+Modeling incompressible flow over NACA airfoils using physics-informed neural networks and a MATLAB potential-flow method, including aerodynamic analysis and numerical validation.
+
+[View project repository](https://github.com/alisakhaei/airfoil-flow-pinn)
+
+
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/a-sakhaei)
