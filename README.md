@@ -23,6 +23,11 @@ Mechanical design and analysis of a two-stage gearbox, including gears, shafts, 
 
 [View project repository](https://github.com/alisakhaei/gearbox-design)
 
+### Reciprocating Pump Dynamics
+
+Dynamic simulation of a reciprocating pump mechanism, including multibody modeling, kinematic response analysis, motor torque evaluation, and flywheel comparison in MATLAB/Simulink.
+
+[View project repository](https://github.com/alisakhaei/reciprocating-pump-dynamics)
 
 ## Connect
 
