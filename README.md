@@ -62,6 +62,11 @@ CFD analysis of flow through elbows, a conical diffuser, and a converging-diverg
 
 [View project repository](https://github.com/alisakhaei/ansys-fluent-flow-analysis)
 
+### Forklift Crane Attachment
+
+Design and analysis of an adjustable crane attachment for a forklift, including structural calculations, bolted and welded joints, manufacturing drawings, and a complete SolidWorks assembly.
+
+[View project repository](https://github.com/alisakhaei/forklift-crane-attachment)
 
 ## Connect
 
