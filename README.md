@@ -35,6 +35,12 @@ Modeling incompressible flow over NACA airfoils using physics-informed neural ne
 
 [View project repository](https://github.com/alisakhaei/airfoil-flow-pinn)
 
+### Internal-Flow CFD Analysis
+
+CFD analysis of flow through elbows, a conical diffuser, and a converging-diverging nozzle using ANSYS Fluent, including pressure loss, flow separation, thermal effects, and MATLAB post-processing.
+
+[View project repository](https://github.com/alisakhaei/ansys-fluent-flow-analysis)
+
 
 ## Connect
 
